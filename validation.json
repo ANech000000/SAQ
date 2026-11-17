@@ -1,0 +1,17 @@
+{
+  "status": "complete",
+  "methods": 6,
+  "samples_per_method": 10042,
+  "environment": {
+    "lm_eval": "0.4.5",
+    "transformers": "4.57.1",
+    "torch": "2.8.0",
+    "datasets": "4.4.1"
+  },
+  "all_task_configs_equal": true,
+  "fp16_matches_table1_exactly": true,
+  "csd_weight_hashes_equal": true,
+  "gptq_historical_ppl": 10.714824676513672,
+  "gptq_transferred_linears": 112,
+  "gptq_transfer_hashes_equal": true
+}

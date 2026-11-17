@@ -1,0 +1,11 @@
+This research code includes code from facebookresearch/any4.
+Upstream: https://github.com/facebookresearch/any4
+
+The upstream LICENSE and copyright notices are retained without alteration.
+The original Any4 license is Attribution-NonCommercial 4.0 International.
+Existing third-party source notices remain attached to their respective files.
+
+SAQ/CSD-LUT experiment code was collected from the project's archived server
+source. The November 2026 HellaSwag reevaluation scripts are included separately
+under code/any4/server_eval/. This notice does not relicense third-party code,
+model weights, datasets, or optional external dependencies.

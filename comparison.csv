@@ -1,0 +1,7 @@
+method,accuracy_percent,acc,acc_norm_secondary,wikitext2_validation,historical_wikitext2,ppl_difference,result_path
+FP16,47.72953594901414,0.4772953594901414,0.6363274248157738,9.750678062438965,9.750678062438965,0.0,/data/lsz/any4/experiments/method30_weightonly_1b/runs/hellaswag_table1_protocol_20261116_v1/fp16/results.json
+RTN,45.080661222863974,0.4508066122286397,0.5974905397331209,11.723580360412598,11.723580360412598,0.0,/data/lsz/any4/experiments/method30_weightonly_1b/runs/hellaswag_table1_protocol_20261116_v1/rtn/results.json
+GPTQ,46.13622784305915,0.4613622784305915,0.6150169288986258,10.714512825012207,10.714824676513672,-0.00031185150146484375,/data/lsz/any4/experiments/method30_weightonly_1b/runs/hellaswag_table1_protocol_20261116_v1/gptq_bridge_v7/results.json
+AWQ,46.375224058952405,0.463752240589524,0.6176060545708026,10.789726257324219,10.789726257324219,0.0,/data/lsz/any4/experiments/method30_weightonly_1b/runs/hellaswag_table1_protocol_20261116_v1/awq/results.json
+Any4,46.36526588329018,0.4636526588329018,0.619896434973113,10.618475914001465,10.618475914001465,0.0,/data/lsz/any4/experiments/method30_weightonly_1b/runs/hellaswag_table1_protocol_20261116_v1/any4/results.json
+CSD-LUT,46.863174666401115,0.46863174666401114,0.6256721768571998,10.287789344787598,10.287789344787598,0.0,/data/lsz/any4/experiments/method30_weightonly_1b/runs/hellaswag_table1_protocol_20261116_v1/csd_lut/results.json
